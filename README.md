@@ -43,8 +43,8 @@ python-dotenv>=0.19.0
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd scalarfeild
+git clone https://github.com/DRAGOON21S/ScalarFieldTask.git
+cd ScalarFieldTask
 ```
 
 ### 2. Set Up Python Environment
@@ -87,11 +87,23 @@ FLASK_DEBUG=true
 Ensure your SEC data files are in the correct directories:
 
 ```
-scalarfeild/
-├── gemini_10k/          # 10-K annual reports
-├── gemini_8k/           # 8-K current events
-├── gemini_form4/        # Form 4 insider trading
-└── frontend/            # Frontend files
+pretty-little-baby/
+├── proto-3/
+│   └── companies/           # Company-specific SEC data
+│       ├── Apple_Inc/
+│       ├── DoorDash_Inc/
+│       ├── JOHNSON_&_JOHNSON/
+│       ├── JPMORGAN_CHASE_&_CO/
+│       ├── Meta_Platforms_Inc/
+│       ├── MICROSOFT_CORP/
+│       ├── NVIDIA_CORP/
+│       ├── ROKU_INC/
+│       ├── UNITEDHEALTH_GROUP_INC/
+│       └── Zoom_Communications_Inc/
+├── gemini_10k/              # 10-K annual reports
+├── gemini_8k/               # 8-K current events
+├── gemini_form4/            # Form 4 insider trading
+└── frontend/                # Frontend files
 ```
 
 ## 🚀 Quick Start
@@ -114,12 +126,29 @@ http://localhost:5000
 
 - Enter queries like: "_What are Apple's main business segments?_"
 - Ask about: "_Microsoft's cybersecurity incidents_"
-- Explore: "_Tesla insider trading activities_"
+- Explore: "_NVIDIA's insider trading activities_"
+
+## 📊 Available Company Data
+
+This system currently contains SEC filing data for the following companies:
+
+- **Apple Inc** - Technology (Consumer Electronics)
+- **DoorDash Inc** - Technology (Food Delivery)
+- **Johnson & Johnson** - Healthcare (Pharmaceuticals)
+- **JPMorgan Chase & Co** - Financial Services (Banking)
+- **Meta Platforms Inc** - Technology (Social Media)
+- **Microsoft Corp** - Technology (Software & Cloud)
+- **NVIDIA Corp** - Technology (Semiconductors & AI)
+- **Roku Inc** - Technology (Streaming Platform)
+- **UnitedHealth Group Inc** - Healthcare (Insurance)
+- **Zoom Communications Inc** - Technology (Video Communications)
+
+You can analyze SEC filings (10-K, 8-K, Form 4) for any of these companies using natural language queries.
 
 ## 📁 Project Structure
 
 ```
-scalarfeild/
+ScalarFieldTask/
 ├── README.md                           # This file
 ├── requirements.txt                    # Python dependencies
 ├── .env                               # Environment variables
@@ -128,6 +157,18 @@ scalarfeild/
 ├── sec_8k_analyzer.py                 # 8-K analysis tools
 ├── sec_insider_analyzer.py            # Form 4 analysis tools
 ├── sec_master_analyzer.py             # Combined analysis orchestrator
+├── proto-3/
+│   └── companies/                     # Available company data
+│       ├── Apple_Inc/
+│       ├── DoorDash_Inc/
+│       ├── JOHNSON_&_JOHNSON/
+│       ├── JPMORGAN_CHASE_&_CO/
+│       ├── Meta_Platforms_Inc/
+│       ├── MICROSOFT_CORP/
+│       ├── NVIDIA_CORP/
+│       ├── ROKU_INC/
+│       ├── UNITEDHEALTH_GROUP_INC/
+│       └── Zoom_Communications_Inc/
 ├── frontend/
 │   ├── index.html                     # Main frontend interface
 │   ├── styles.css                     # Dark theme styling
@@ -165,21 +206,29 @@ Modify `frontend/styles.css` for theme customization:
 
 ## 🎯 Usage Examples
 
-### Basic Queries
+### Basic Queries (Available Companies)
 
 ```
 "What are Apple's risk factors?"
 "Microsoft's recent 8-K filings"
-"Tesla insider trading summary"
-"Amazon's business segments analysis"
+"NVIDIA's insider trading summary"
+"Johnson & Johnson's business segments analysis"
+"Meta's regulatory challenges"
+"JPMorgan Chase's financial performance"
+"UnitedHealth Group's healthcare initiatives"
+"Zoom's cybersecurity measures"
+"DoorDash's growth strategy"
+"Roku's streaming market position"
 ```
 
 ### Advanced Queries
 
 ```
 "Compare Apple and Microsoft's cybersecurity strategies"
-"Analyze Tesla's executive compensation changes"
+"Analyze NVIDIA's executive compensation changes"
 "What are Meta's regulatory challenges in 2024?"
+"Compare healthcare strategies between Johnson & Johnson and UnitedHealth Group"
+"Analyze technology sector risk factors across Apple, Microsoft, and NVIDIA"
 ```
 
 ## 🔍 API Endpoints
@@ -333,8 +382,9 @@ python sec_insider_analyzer.py "test query"
 
 - **Prototype Status**: This is an early prototype
 - **Processing Time**: Analysis can take 10-60 seconds
-- **Data Coverage**: Limited to available SEC filing data
+- **Data Coverage**: Limited to 10 specific companies (see Available Company Data section)
 - **API Limits**: Subject to Gemini API rate limits
+- **Company Scope**: Currently supports Apple, DoorDash, Johnson & Johnson, JPMorgan Chase, Meta, Microsoft, NVIDIA, Roku, UnitedHealth Group, and Zoom
 
 ## 🔄 Updates
 
