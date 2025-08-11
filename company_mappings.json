@@ -1,0 +1,148 @@
+{
+  "company_name_mappings": {
+    "10k_files": {
+      "Apple Inc": "Apple_Inc_10k.json",
+      "Microsoft Corporation": "MICROSOFT_CORP_10k.json",
+      "NVIDIA Corporation": "NVIDIA_CORP_10k.json",
+      "Meta Platforms Inc": "Meta_Platforms_Inc_10k.json",
+      "JPMorgan Chase & Co": "JPMORGAN_CHASE_&_CO_10k.json",
+      "Johnson & Johnson": "JOHNSON_&_JOHNSON_10k.json",
+      "DoorDash Inc": "DoorDash_Inc_10k.json",
+      "Roku Inc": "ROKU_INC_10k.json",
+      "Zoom Communications Inc": "Zoom_Communications_Inc_10k.json"
+    },
+    "8k_files": {
+      "Apple Inc": "Apple_Inc_8k.json",
+      "Microsoft Corporation": "MICROSOFT_CORP_8k.json",
+      "NVIDIA Corporation": "NVIDIA_CORP_8k.json",
+      "Meta Platforms Inc": "Meta_Platforms_Inc_8k.json",
+      "JPMorgan Chase & Co": "JPMORGAN_CHASE_&_CO_8k.json",
+      "Johnson & Johnson": "JOHNSON_&_JOHNSON_8k.json",
+      "DoorDash Inc": "DoorDash_Inc_8k.json",
+      "Roku Inc": "ROKU_INC_8k.json",
+      "Zoom Communications Inc": "Zoom_Communications_Inc_8k.json"
+    },
+    "form4_files": {
+      "Apple_Inc": "Apple_Inc_form4.json",
+      "MICROSOFT_CORP": "MICROSOFT_CORP_form4.json",
+      "NVIDIA_CORP": "NVIDIA_CORP_form4.json",
+      "Meta_Platforms_Inc": "Meta_Platforms_Inc_form4.json",
+      "JPMORGAN_CHASE_&_CO": "JPMORGAN_CHASE_&_CO_form4.json",
+      "JOHNSON_&_JOHNSON": "JOHNSON_&_JOHNSON_form4.json",
+      "DoorDash_Inc": "DoorDash_Inc_form4.json",
+      "ROKU_INC": "ROKU_INC_form4.json",
+      "Zoom_Communications_Inc": "Zoom_Communications_Inc_form4.json",
+      "UNITEDHEALTH_GROUP_INC": "UNITEDHEALTH_GROUP_INC_form4.json"
+    }
+  },
+  "keyword_detection": {
+    "Apple": {
+      "keywords": [
+        "Apple",
+        "AAPL",
+        "iPhone",
+        "Mac",
+        "iPad",
+        "Tim Cook"
+      ],
+      "10k_name": "Apple Inc",
+      "form4_name": "Apple_Inc"
+    },
+    "Microsoft": {
+      "keywords": [
+        "Microsoft",
+        "MSFT",
+        "Windows",
+        "Azure",
+        "Office",
+        "Satya Nadella"
+      ],
+      "10k_name": "Microsoft Corporation",
+      "form4_name": "MICROSOFT_CORP"
+    },
+    "NVIDIA": {
+      "keywords": [
+        "NVIDIA",
+        "NVDA",
+        "GPU",
+        "AI chips",
+        "Jensen Huang"
+      ],
+      "10k_name": "NVIDIA Corporation",
+      "form4_name": "NVIDIA_CORP"
+    },
+    "Meta": {
+      "keywords": [
+        "Meta",
+        "Facebook",
+        "META",
+        "Instagram",
+        "WhatsApp",
+        "Mark Zuckerberg"
+      ],
+      "10k_name": "Meta Platforms Inc",
+      "form4_name": "Meta_Platforms_Inc"
+    },
+    "JPMorgan": {
+      "keywords": [
+        "JPMorgan",
+        "Chase",
+        "JPM",
+        "banking",
+        "Jamie Dimon"
+      ],
+      "10k_name": "JPMorgan Chase & Co",
+      "form4_name": "JPMORGAN_CHASE_&_CO"
+    },
+    "Johnson & Johnson": {
+      "keywords": [
+        "J&J",
+        "JNJ",
+        "pharmaceutical",
+        "healthcare",
+        "medical devices"
+      ],
+      "10k_name": "Johnson & Johnson",
+      "form4_name": "JOHNSON_&_JOHNSON"
+    },
+    "DoorDash": {
+      "keywords": [
+        "DoorDash",
+        "DASH",
+        "food delivery",
+        "gig economy"
+      ],
+      "10k_name": "DoorDash Inc",
+      "form4_name": "DoorDash_Inc"
+    },
+    "Roku": {
+      "keywords": [
+        "Roku",
+        "streaming",
+        "TV platform"
+      ],
+      "10k_name": "Roku Inc",
+      "form4_name": "ROKU_INC"
+    },
+    "Zoom": {
+      "keywords": [
+        "Zoom",
+        "video conferencing",
+        "ZM",
+        "remote work"
+      ],
+      "10k_name": "Zoom Communications Inc",
+      "form4_name": "Zoom_Communications_Inc"
+    },
+    "UnitedHealth": {
+      "keywords": [
+        "UnitedHealth",
+        "UNH",
+        "health insurance",
+        "healthcare"
+      ],
+      "10k_name": "UnitedHealth Group Inc",
+      "form4_name": "UNITEDHEALTH_GROUP_INC"
+    }
+  }
+}

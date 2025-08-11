@@ -1,0 +1,16 @@
+=== SEC ANALYSIS INDEX ===
+Query: Microsoft's risk factors in 2024
+Timestamp: 20250811_012358
+Analysis Directory: comprehensive_analysis_Microsofts_risk_factors_in_2024_20250811_012358
+==================================================
+
+FILES CREATED:
+📋 Master Report: comprehensive_analysis_20250811_012358.txt
+📇 This Index: analysis_index.txt
+
+Individual Analysis Files:
+📄 Sec 8K Analyzer: sec_8k_analyzer_analysis_20250811_012358.txt
+📄 Sec Insider Analyzer: sec_insider_analyzer_analysis_20250811_012358.txt
+
+Total Files: 4
+Successful Analyses: 2/3

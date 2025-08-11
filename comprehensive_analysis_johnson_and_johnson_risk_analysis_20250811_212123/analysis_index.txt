@@ -1,0 +1,17 @@
+=== SEC ANALYSIS INDEX ===
+Query: johnson and johnson risk analysis
+Timestamp: 20250811_212123
+Analysis Directory: comprehensive_analysis_johnson_and_johnson_risk_analysis_20250811_212123
+==================================================
+
+FILES CREATED:
+📋 Master Report: comprehensive_analysis_20250811_212123.txt
+📇 This Index: analysis_index.txt
+
+Individual Analysis Files:
+📄 Sec Tools: sec_tools_analysis_20250811_212123.txt
+📄 Sec 8K Analyzer: sec_8k_analyzer_analysis_20250811_212123.txt
+📄 Sec Insider Analyzer: sec_insider_analyzer_analysis_20250811_212123.txt
+
+Total Files: 5
+Successful Analyses: 3/3

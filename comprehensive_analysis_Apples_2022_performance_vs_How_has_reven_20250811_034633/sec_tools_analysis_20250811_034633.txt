@@ -1,0 +1,13 @@
+=== SEC TOOLS ANALYSIS ===
+Original Query: "Apple's 2022 performance" vs "How has revenue guidance changed over time?"
+Tool Query: Provide a summary of Apple's financial performance for the fiscal year 2022, including key metrics like revenue, net income, and segment performance, as detailed in the Management's Discussion and Analysis (MD&A) section of the 10-K.
+Generated: 2025-08-11 03:46:33.517810
+Execution Time: 0.00 seconds
+================================================================================
+
+=== SEC FILING ANALYSIS RESULT ===
+Query: Provide a summary of Apple's financial performance for the fiscal year 2022, including key metrics like revenue, net income, and segment performance, as detailed in the Management's Discussion and Analysis (MD&A) section of the 10-K.
+Generated: 2025-08-11 03:44:01
+==================================================
+
+Error during analysis: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.

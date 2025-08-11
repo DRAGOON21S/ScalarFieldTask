@@ -1,0 +1,14 @@
+=== SEC ANALYSIS INDEX ===
+Query: Quick analysis of Apple
+Timestamp: 20250811_002711
+Analysis Directory: comprehensive_analysis_Quick_analysis_of_Apple_20250811_002711
+==================================================
+
+FILES CREATED:
+📋 Master Report: comprehensive_analysis_20250811_002711.txt
+📇 This Index: analysis_index.txt
+
+Individual Analysis Files:
+
+Total Files: 2
+Successful Analyses: 0/3

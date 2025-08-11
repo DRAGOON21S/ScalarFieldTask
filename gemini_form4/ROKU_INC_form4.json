@@ -1,0 +1,736 @@
+{
+  "ROKU_INC": {
+    "2020": [
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Processing Failed",
+          "title": "N/A",
+          "relationship": "N/A",
+          "is_director": false,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2020-01-01",
+        "TRADING_TABLES": {
+          "Table I - Non-Derivative Securities (Common Stock, Preferred Stock, etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "Table II - Derivative Securities (Options, Warrants, Convertible Securities, etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      }
+    ],
+    "2021": [
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Anthony J. Wood",
+          "title": "CEO and Chairman BOD",
+          "relationship": "",
+          "is_director": true,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2021-01-04",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Mai Fyfield",
+          "title": "",
+          "relationship": "",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2021-01-25",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Anthony J. Wood",
+          "title": "CEO and Chairman BOD",
+          "relationship": "",
+          "is_director": true,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2021-02-01",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Anthony J. Wood",
+          "title": "CEO and Chairman BOD",
+          "relationship": "",
+          "is_director": true,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2021-02-08",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Anthony J. Wood",
+          "title": "CEO and Chairman BOD",
+          "relationship": "",
+          "is_director": true,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2021-02-16",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Steve Louden",
+          "title": "CFO",
+          "relationship": "",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2021-02-22",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Scott A. Rosenberg",
+          "title": "GM, Sr. VP Platform Business",
+          "relationship": "",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2021-02-22",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Mai Fyfield",
+          "title": "",
+          "relationship": "",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2021-02-24",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Anthony J. Wood",
+          "title": "CEO and Chairman BOD",
+          "relationship": "",
+          "is_director": true,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2021-03-01",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Scott A. Rosenberg",
+          "title": "GM, Sr. VP Platform Business",
+          "relationship": "",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2021-03-01",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      }
+    ],
+    "2022": [
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Anthony J. Wood",
+          "title": "CEO and Chairman BOD",
+          "relationship": "Director, Officer",
+          "is_director": true,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-01-03",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Anthony J. Wood",
+          "title": "CEO and Chairman BOD",
+          "relationship": "Director, Officer",
+          "is_director": true,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-01-18",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Anthony J. Wood",
+          "title": "CEO and Chairman BOD",
+          "relationship": "Director, Officer",
+          "is_director": true,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-02-01",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Anthony J. Wood",
+          "title": "CEO and Chairman BOD",
+          "relationship": "Director, Officer",
+          "is_director": true,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-02-15",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Anthony J. Wood",
+          "title": "CEO and Chairman BOD",
+          "relationship": "Director, Officer",
+          "is_director": true,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-03-01",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Scott A. Rosenberg",
+          "title": "GM, Sr. VP Platform Business",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-03-01",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Stephen H Kay",
+          "title": "SVP General Counsel, Secretary",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-03-01",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Mustafa Ozgen",
+          "title": "SVP and GM of Account Acquisit",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-03-01",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Anthony J. Wood",
+          "title": "CEO and Chairman BOD",
+          "relationship": "Director, Officer",
+          "is_director": true,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-03-14",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Anthony J. Wood",
+          "title": "CEO and Chairman BOD",
+          "relationship": "Director, Officer",
+          "is_director": true,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-04-01",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      }
+    ],
+    "2023": [
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Processing Failed",
+          "title": "N/A",
+          "relationship": "N/A",
+          "is_director": false,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2023-01-01",
+        "TRADING_TABLES": {
+          "Table I - Non-Derivative Securities (Common Stock, Preferred Stock, etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "Table II - Derivative Securities (Options, Warrants, Convertible Securities, etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      }
+    ],
+    "2024": [
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Processing Failed",
+          "title": "N/A",
+          "relationship": "N/A",
+          "is_director": false,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2024-01-01",
+        "TRADING_TABLES": {
+          "Table I - Non-Derivative Securities (Common Stock, Preferred Stock, etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "Table II - Derivative Securities (Options, Warrants, Convertible Securities, etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      }
+    ],
+    "2025": [
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Processing Failed",
+          "title": "N/A",
+          "relationship": "N/A",
+          "is_director": false,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2025-01-01",
+        "TRADING_TABLES": {
+          "Table I - Non-Derivative Securities (Common Stock, Preferred Stock, etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "Table II - Derivative Securities (Options, Warrants, Convertible Securities, etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

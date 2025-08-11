@@ -1,0 +1,16 @@
+=== SEC ANALYSIS INDEX ===
+Query: Analyze Apple business segments
+Timestamp: 20250811_003115
+Analysis Directory: comprehensive_analysis_Analyze_Apple_business_segments_20250811_003115
+==================================================
+
+FILES CREATED:
+📋 Master Report: comprehensive_analysis_20250811_003115.txt
+📇 This Index: analysis_index.txt
+
+Individual Analysis Files:
+📄 Sec Tools: sec_tools_analysis_20250811_003115.txt
+📄 Sec 8K Analyzer: sec_8k_analyzer_analysis_20250811_003115.txt
+
+Total Files: 4
+Successful Analyses: 2/3

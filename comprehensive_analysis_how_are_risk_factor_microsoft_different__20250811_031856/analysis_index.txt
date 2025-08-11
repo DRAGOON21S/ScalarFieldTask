@@ -1,0 +1,15 @@
+=== SEC ANALYSIS INDEX ===
+Query: how are risk factor microsoft different meta?
+Timestamp: 20250811_031856
+Analysis Directory: comprehensive_analysis_how_are_risk_factor_microsoft_different__20250811_031856
+==================================================
+
+FILES CREATED:
+📋 Master Report: comprehensive_analysis_20250811_031856.txt
+📇 This Index: analysis_index.txt
+
+Individual Analysis Files:
+📄 Sec Insider Analyzer: sec_insider_analyzer_analysis_20250811_031856.txt
+
+Total Files: 3
+Successful Analyses: 1/3

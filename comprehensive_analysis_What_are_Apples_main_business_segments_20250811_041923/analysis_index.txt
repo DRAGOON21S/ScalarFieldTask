@@ -1,0 +1,17 @@
+=== SEC ANALYSIS INDEX ===
+Query: What are Apple's main business segments?
+Timestamp: 20250811_041923
+Analysis Directory: comprehensive_analysis_What_are_Apples_main_business_segments_20250811_041923
+==================================================
+
+FILES CREATED:
+📋 Master Report: comprehensive_analysis_20250811_041923.txt
+📇 This Index: analysis_index.txt
+
+Individual Analysis Files:
+📄 Sec Tools: sec_tools_analysis_20250811_041923.txt
+📄 Sec 8K Analyzer: sec_8k_analyzer_analysis_20250811_041923.txt
+📄 Sec Insider Analyzer: sec_insider_analyzer_analysis_20250811_041923.txt
+
+Total Files: 5
+Successful Analyses: 3/3

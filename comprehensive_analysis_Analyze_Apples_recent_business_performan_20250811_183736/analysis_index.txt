@@ -1,0 +1,17 @@
+=== SEC ANALYSIS INDEX ===
+Query: Analyze Apple's recent business performance and risk factors
+Timestamp: 20250811_183736
+Analysis Directory: comprehensive_analysis_Analyze_Apples_recent_business_performan_20250811_183736
+==================================================
+
+FILES CREATED:
+📋 Master Report: comprehensive_analysis_20250811_183736.txt
+📇 This Index: analysis_index.txt
+
+Individual Analysis Files:
+📄 Sec Tools: sec_tools_analysis_20250811_183736.txt
+📄 Sec 8K Analyzer: sec_8k_analyzer_analysis_20250811_183736.txt
+📄 Sec Insider Analyzer: sec_insider_analyzer_analysis_20250811_183736.txt
+
+Total Files: 5
+Successful Analyses: 3/3

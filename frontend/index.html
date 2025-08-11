@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="meta viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEC Analysis AI - Financial Intelligence Platform</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <div class="logo-icon">
+                    <i data-lucide="trending-up"></i>
+                </div>
+                <h1>SEC Analysis AI</h1>
+            </div>
+            <div class="status-indicator">
+                <div class="status-dot"></div>
+                <span>Ready</span>
+            </div>
+        </header>
+
+        <!-- Main Chat Area -->
+        <main class="chat-container">
+            <div class="chat-messages" id="chatMessages">
+                <div class="welcome-message">
+                    <div class="welcome-icon">
+                        <i data-lucide="brain-circuit"></i>
+                    </div>
+                    <h2>Welcome to SEC Analysis AI</h2>
+                    <p>Ask me about any company's SEC filings - 10-K annual reports, 8-K current events, or Form 4 insider trading data.</p>
+                    <div class="example-queries">
+                        <div class="example-query" onclick="setQuery(this.textContent)">
+                            <i data-lucide="building-2"></i>
+                            <span>What are Apple's main business segments?</span>
+                        </div>
+                        <div class="example-query" onclick="setQuery(this.textContent)">
+                            <i data-lucide="trending-down"></i>
+                            <span>Microsoft's risk factors in 2024</span>
+                        </div>
+                        <div class="example-query" onclick="setQuery(this.textContent)">
+                            <i data-lucide="users"></i>
+                            <span>NVIDIA insider trading activity</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Analysis Results Area -->
+            <div class="results-container" id="resultsContainer" style="display: none;">
+                <div class="results-header">
+                    <h3>Analysis Results</h3>
+                    <button class="minimize-results" onclick="minimizeResults()">
+                        <i data-lucide="minimize-2"></i>
+                    </button>
+                </div>
+
+                <!-- Sources Section - Moved to top -->
+                <div class="sources-section">
+                    <h4><i data-lucide="database"></i> Data Sources</h4>
+                    <div class="sources-list" id="sourcesList"></div>
+                </div>
+                
+                <!-- Individual Analysis Tabs -->
+                <div class="analysis-tabs">
+                    <button class="tab-button active" onclick="showTab('combined')" id="tab-combined">
+                        <i data-lucide="layers"></i>
+                        <span>Combined Analysis</span>
+                    </button>
+                    <!-- Individual tabs hidden - only showing combined analysis -->
+                    <!--
+                    <button class="tab-button" onclick="showTab('10k')" id="tab-10k">
+                        <i data-lucide="file-text"></i>
+                        <span>10-K Report</span>
+                    </button>
+                    <button class="tab-button" onclick="showTab('8k')" id="tab-8k">
+                        <i data-lucide="zap"></i>
+                        <span>8-K Events</span>
+                    </button>
+                    <button class="tab-button" onclick="showTab('form4')" id="tab-form4">
+                        <i data-lucide="user-check"></i>
+                        <span>Insider Trading</span>
+                    </button>
+                    -->
+                </div>
+
+                <!-- Tab Content -->
+                <div class="tab-content">
+                    <div class="tab-pane active" id="pane-combined">
+                        <div class="analysis-content" id="content-combined"></div>
+                        <div class="scroll-indicator" id="scroll-indicator-combined">
+                            <i data-lucide="chevron-down"></i>
+                            Scroll for more content
+                        </div>
+                    </div>
+                    <!-- Individual tab panes hidden - only showing combined analysis -->
+                    <!--
+                    <div class="tab-pane" id="pane-10k">
+                        <div class="analysis-content" id="content-10k"></div>
+                        <div class="scroll-indicator" id="scroll-indicator-10k">
+                            <i data-lucide="chevron-down"></i>
+                            Scroll for more content
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="pane-8k">
+                        <div class="analysis-content" id="content-8k"></div>
+                        <div class="scroll-indicator" id="scroll-indicator-8k">
+                            <i data-lucide="chevron-down"></i>
+                            Scroll for more content
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="pane-form4">
+                        <div class="analysis-content" id="content-form4"></div>
+                        <div class="scroll-indicator" id="scroll-indicator-form4">
+                            <i data-lucide="chevron-down"></i>
+                            Scroll for more content
+                        </div>
+                    </div>
+                    -->
+                </div>
+            </div>
+        </main>
+
+        <!-- Input Area -->
+        <div class="input-container">
+            <div class="input-wrapper">
+                <div class="input-group">
+                    <input 
+                        type="text" 
+                        id="queryInput" 
+                        placeholder="Ask about SEC filings... (e.g., 'Apple's risk factors', 'Microsoft insider trading')"
+                        autocomplete="off"
+                    >
+                    <button id="sendButton" onclick="sendQuery()" disabled>
+                        <i data-lucide="send"></i>
+                    </button>
+                </div>
+                <div class="input-hint">
+                    <i data-lucide="lightbulb"></i>
+                    <span>Try asking about business segments, risk factors, financial results, or insider trading</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Loading Overlay -->
+        <div class="loading-overlay" id="loadingOverlay" style="display: none;">
+            <div class="loading-content">
+                <div class="loading-spinner"></div>
+                <h3>Analyzing SEC Filings...</h3>
+                <p class="loading-text">Processing your query through our AI analysis system</p>
+                <div class="loading-steps">
+                    <div class="loading-step active" id="step1">
+                        <div class="step-icon"><i data-lucide="search"></i></div>
+                        <span>Parsing Query</span>
+                    </div>
+                    <div class="loading-step" id="step2">
+                        <div class="step-icon"><i data-lucide="database"></i></div>
+                        <span>Analyzing Data</span>
+                    </div>
+                    <div class="loading-step" id="step3">
+                        <div class="step-icon"><i data-lucide="brain"></i></div>
+                        <span>Generating Insights</span>
+                    </div>
+                    <div class="loading-step" id="step4">
+                        <div class="step-icon"><i data-lucide="check-circle"></i></div>
+                        <span>Complete</span>
+                    </div>
+                </div>
+                <div class="prototype-message">
+                    <p>I realize that it's taking a lot of time, but this is just the first prototype. Would really appreciate your patience! 🙏</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Minimized Results -->
+    <div class="minimized-results" id="minimizedResults" style="display: none;" onclick="maximizeResults()">
+        <div class="minimized-icon">
+            <i data-lucide="file-text"></i>
+            <span class="minimized-title">Analysis Results</span>
+        </div>
+        <button class="maximize-btn" onclick="event.stopPropagation(); maximizeResults()">
+            <i data-lucide="maximize-2"></i>
+        </button>
+    </div>
+
+    <!-- Scroll to Top Button -->
+    <button class="scroll-to-top" id="scrollToTop" onclick="scrollToTop()">
+        <i data-lucide="arrow-up"></i>
+    </button>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+=== COMPREHENSIVE SEC ANALYSIS ===
+Original Query: Tell me about Apple's business and recent developments
+Enhanced Query: Provide a comprehensive analysis of Apple Inc.'s core business model, financial drivers, significant recent corporate events, and insider sentiment to evaluate its current operational health and strategic trajectory.
+Analysis Scope: A holistic analysis integrating Apple's long-term business fundamentals from its annual report, recent material events impacting its operations, and insider trading activity to gauge management's confidence.
+Generated: 2025-08-11 00:18:27.090450
+================================================================================
+
+INDIVIDUAL TOOL RESULTS:
+----------------------------------------
+SEC_TOOLS: FAILED
+  Error: Tool failed with code 1
+SEC_8K_ANALYZER: FAILED
+  Error: Tool failed with code 1
+SEC_INSIDER_ANALYZER: FAILED
+  Error: Tool failed with code 1
+
+================================================================================
+
+COMPREHENSIVE COMBINED ANALYSIS:
+================================================================================
+❌ No successful analyses to combine.

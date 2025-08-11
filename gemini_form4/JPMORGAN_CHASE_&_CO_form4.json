@@ -1,0 +1,1006 @@
+{
+  "JPMORGAN_CHASE_&_CO": {
+    "2020": [
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Processing Failed",
+          "title": "N/A",
+          "relationship": "N/A",
+          "is_director": false,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2020-01-01",
+        "TRADING_TABLES": {
+          "Table I - Non-Derivative Securities (Common Stock, Preferred Stock, etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "Table II - Derivative Securities (Options, Warrants, Convertible Securities, etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      }
+    ],
+    "2021": [
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Processing Failed",
+          "title": "N/A",
+          "relationship": "N/A",
+          "is_director": false,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2021-01-01",
+        "TRADING_TABLES": {
+          "Table I - Non-Derivative Securities (Common Stock, Preferred Stock, etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "Table II - Derivative Securities (Options, Warrants, Convertible Securities, etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      }
+    ],
+    "2022": [
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "JPMORGAN CHASE & CO",
+          "title": "",
+          "relationship": "",
+          "is_director": false,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-01-28",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "JPMORGAN CHASE & CO",
+          "title": "",
+          "relationship": "",
+          "is_director": false,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-02-24",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "JPMORGAN CHASE & CO",
+          "title": "",
+          "relationship": "",
+          "is_director": false,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-08-16",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Stephen B Burke",
+          "title": "",
+          "relationship": "",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Timothy Patrick Flynn",
+          "title": "",
+          "relationship": "",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Mellody L Hobson",
+          "title": "",
+          "relationship": "",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Michael A Neal",
+          "title": "",
+          "relationship": "",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Virginia M Rometty",
+          "title": "",
+          "relationship": "",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Gordon Smith",
+          "title": "Co-President & COO",
+          "relationship": "",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-01-04",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Ashley Bacon",
+          "title": "Chief Risk Officer",
+          "relationship": "",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-01-14",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      }
+    ],
+    "2023": [
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "JPMORGAN CHASE & CO",
+          "title": "",
+          "relationship": "",
+          "is_director": false,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2023-03-31",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "JPMORGAN CHASE & CO",
+          "title": "",
+          "relationship": "",
+          "is_director": false,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2023-12-11",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "JPMORGAN CHASE & CO",
+          "title": "",
+          "relationship": "",
+          "is_director": false,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2023-12-12",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Stephen B Burke",
+          "title": "",
+          "relationship": "Director",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2023-01-04",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Timothy Patrick Flynn",
+          "title": "",
+          "relationship": "Director",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2023-01-04",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Mellody L Hobson",
+          "title": "",
+          "relationship": "Director",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2023-01-04",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Michael A Neal",
+          "title": "",
+          "relationship": "Director",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2023-01-04",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Phebe N Novakovic",
+          "title": "",
+          "relationship": "Director",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2023-01-04",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Virginia M Rometty",
+          "title": "",
+          "relationship": "Director",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2023-01-04",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Ashley Bacon",
+          "title": "Chief Risk Officer",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2023-01-17",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      }
+    ],
+    "2024": [
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Timothy Patrick Flynn",
+          "title": "",
+          "relationship": "Director",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2024-01-03",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Alex Gorsky",
+          "title": "",
+          "relationship": "Director",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2024-01-03",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Mellody L Hobson",
+          "title": "",
+          "relationship": "Director",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2024-01-03",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Michael A Neal",
+          "title": "",
+          "relationship": "Director",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2024-01-03",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Phebe N Novakovic",
+          "title": "",
+          "relationship": "Director",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2024-01-03",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Virginia M Rometty",
+          "title": "",
+          "relationship": "Director",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2024-01-03",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Stephen B Burke",
+          "title": "",
+          "relationship": "Director",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2024-01-03",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Ashley Bacon",
+          "title": "Chief Risk Officer",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2024-01-16",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Mary E. Erdoes",
+          "title": "CEO Asset & Wealth Management",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2024-01-16",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Marianne Lake",
+          "title": "Co-CEO CCB",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2024-01-16",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      }
+    ],
+    "2025": [
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Processing Failed",
+          "title": "N/A",
+          "relationship": "N/A",
+          "is_director": false,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2025-01-01",
+        "TRADING_TABLES": {
+          "Table I - Non-Derivative Securities (Common Stock, Preferred Stock, etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "Table II - Derivative Securities (Options, Warrants, Convertible Securities, etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

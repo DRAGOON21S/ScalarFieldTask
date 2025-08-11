@@ -1,0 +1,15 @@
+=== SEC ANALYSIS INDEX ===
+Query: Test query to verify environment variable works
+Timestamp: 20250811_183040
+Analysis Directory: comprehensive_analysis_Test_query_to_verify_environment_variabl_20250811_183040
+==================================================
+
+FILES CREATED:
+📋 Master Report: comprehensive_analysis_20250811_183040.txt
+📇 This Index: analysis_index.txt
+
+Individual Analysis Files:
+📄 Sec Tools: sec_tools_analysis_20250811_183040.txt
+
+Total Files: 3
+Successful Analyses: 1/3

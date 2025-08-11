@@ -1,0 +1,1426 @@
+{
+  "JOHNSON_&_JOHNSON": {
+    "2020": [
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Kathryn E Wengel",
+          "title": "EVP, Chief GSC Officer",
+          "relationship": "",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2020-09-02",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Marillyn A Hewson",
+          "title": "",
+          "relationship": "",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2020-09-08",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Eugene A. Washington",
+          "title": "",
+          "relationship": "",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2020-09-08",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Mark A Weinberger",
+          "title": "",
+          "relationship": "",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2020-09-08",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Michael E Sneed",
+          "title": "EVP, Global Corp Aff & COO",
+          "relationship": "",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2020-12-09",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Marillyn A Hewson",
+          "title": "",
+          "relationship": "",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2020-12-08",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Eugene A. Washington",
+          "title": "",
+          "relationship": "",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2020-12-08",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Mark A Weinberger",
+          "title": "",
+          "relationship": "",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2020-12-08",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      }
+    ],
+    "2021": [
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Joaquin Duato",
+          "title": "Vice Chair, Exec Committee",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2021-02-08",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Robert J Decker",
+          "title": "Controller, CAO",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2021-02-08",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Peter Fasolo",
+          "title": "Exec VP, Chief HR Officer",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2021-02-08",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Joseph J Wolk",
+          "title": "Exec VP, CFO",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2021-02-08",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Michael H Ullmann",
+          "title": "Exec VP, General Counsel",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2021-02-08",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Paulus Stoffels",
+          "title": "Vice Chair, Exec Committee",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2021-02-08",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Thibaut Mongon",
+          "title": "Exec VP, WW Chair, Consumer",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2021-02-08",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Michael E Sneed",
+          "title": "EVP, Global Corp Aff & CCO",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2021-02-08",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Jennifer L Taubert",
+          "title": "EVP, WW Chair, Pharmaceuticals",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2021-02-08",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      }
+    ],
+    "2022": [
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "James D. Swanson",
+          "title": "EVP, Chief Information Officer",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-11-02",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Joaquin Duato",
+          "title": "CEO",
+          "relationship": "Director, Officer",
+          "is_director": true,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-01-14",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Alex Gorsky",
+          "title": "",
+          "relationship": "Director",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-01-14",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Jennifer L Taubert",
+          "title": "EVP, WW Chair, Pharmaceuticals",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-02-14",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Peter Fasolo",
+          "title": "Exec VP, Chief HR Officer",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-02-14",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Robert J Decker",
+          "title": "Controller, CAO",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-02-14",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Ashley Mcevoy",
+          "title": "EVP, WW Chair, Medical Devices",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-02-14",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Thibaut Mongon",
+          "title": "Exec VP, WW Chair, Consumer",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-02-14",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Michael H Ullmann",
+          "title": "Exec VP, General Counsel",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-02-14",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Kathryn E Wengel",
+          "title": "EVP, Chief GSC Officer",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2022-02-14",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      }
+    ],
+    "2023": [
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Processing Failed",
+          "title": "N/A",
+          "relationship": "N/A",
+          "is_director": false,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2023-01-01",
+        "TRADING_TABLES": {
+          "Table I - Non-Derivative Securities (Common Stock, Preferred Stock, etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "Table II - Derivative Securities (Options, Warrants, Convertible Securities, etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      }
+    ],
+    "2024": [
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Joseph J Wolk",
+          "title": "Exec VP, CFO",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2024-05-22",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Marillyn A Hewson",
+          "title": "",
+          "relationship": "Director",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2024-12-10",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Eugene A. Woods",
+          "title": "",
+          "relationship": "Director",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2024-12-10",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Mark A Weinberger",
+          "title": "",
+          "relationship": "Director",
+          "is_director": true,
+          "is_officer": false,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2024-12-12",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Robert J Decker",
+          "title": "VP Corporate Controller",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2024-02-08",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Vanessa Broadhurst",
+          "title": "EVP, Global Corp Affairs",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2024-02-08",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "William Hait",
+          "title": "",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2024-02-08",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Peter Fasolo",
+          "title": "Exec VP, Chief HR Officer",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2024-02-08",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Timothy Schmid",
+          "title": "EVP, WW Chair, MedTech",
+          "relationship": "Officer",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2024-02-08",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      }
+    ],
+    "2025": [
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Joseph J Wolk",
+          "title": "Exec VP, CFO",
+          "relationship": "",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2025-02-07",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Jennifer L Taubert",
+          "title": "EVP, WWC. Innovative Medicine",
+          "relationship": "",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2025-02-07",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Kathryn E Wengel",
+          "title": "EVP, Chief TO and Risk Officer",
+          "relationship": "",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2025-02-07",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Joaquin Duato",
+          "title": "CEO and Chairman of the Board",
+          "relationship": "",
+          "is_director": true,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2025-02-07",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Vanessa Broadhurst",
+          "title": "EVP, Global Corp Affairs",
+          "relationship": "",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2025-02-10",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Joaquin Duato",
+          "title": "CEO and Chairman of the Board",
+          "relationship": "",
+          "is_director": true,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2025-02-10",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "James D. Swanson",
+          "title": "EVP, CIO",
+          "relationship": "",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2025-02-10",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Timothy Schmid",
+          "title": "EVP, WW Chair, MedTech",
+          "relationship": "",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2025-02-10",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Jennifer L Taubert",
+          "title": "EVP, WWC. Innovative Medicine",
+          "relationship": "",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2025-02-10",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      },
+      {
+        "FORM": "4",
+        "INSIDER_INFO": {
+          "name": "Kristen Mulholland",
+          "title": "EVP, Chief HR Officer",
+          "relationship": "",
+          "is_director": false,
+          "is_officer": true,
+          "is_ten_percent_owner": false
+        },
+        "FILING_DATE": "2025-02-10",
+        "TRADING_TABLES": {
+          "TableI-Non-DerivativeSecurities(CommonStock,PreferredStock,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          },
+          "TableII-DerivativeSecurities(Options,Warrants,ConvertibleSecurities,etc.)": {
+            "TRANSACTIONS": [],
+            "table_summary": {
+              "total_transactions": "0",
+              "net_shares_change": "0",
+              "total_transaction_value": "0.00"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

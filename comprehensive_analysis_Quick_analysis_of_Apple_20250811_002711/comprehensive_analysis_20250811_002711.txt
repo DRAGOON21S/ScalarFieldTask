@@ -1,0 +1,21 @@
+=== COMPREHENSIVE SEC ANALYSIS ===
+Original Query: Quick analysis of Apple
+Enhanced Query: Provide a concise, multi-faceted analysis of Apple Inc.'s current corporate health by examining its core financial performance, recent material developments, and insider sentiment.
+Analysis Scope: This analysis aims to provide a rapid yet comprehensive snapshot of Apple's current situation. It will cover the company's foundational business performance from its annual report, highlight the most recent strategic and operational events from its current reports, and gauge internal confidence through an analysis of executive stock transactions.
+Generated: 2025-08-11 00:27:11.684282
+================================================================================
+
+INDIVIDUAL TOOL RESULTS:
+----------------------------------------
+SEC_TOOLS: FAILED
+  Error: Tool failed with code 1
+SEC_8K_ANALYZER: FAILED
+  Error: Tool failed with code 1
+SEC_INSIDER_ANALYZER: FAILED
+  Error: Tool failed with code 1
+
+================================================================================
+
+COMPREHENSIVE COMBINED ANALYSIS:
+================================================================================
+❌ No successful analyses to combine.

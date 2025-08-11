@@ -1,0 +1,17 @@
+=== SEC ANALYSIS INDEX ===
+Query: "Apple's 2022 performance" vs "How has revenue guidance changed over time?"
+Timestamp: 20250811_034633
+Analysis Directory: comprehensive_analysis_Apples_2022_performance_vs_How_has_reven_20250811_034633
+==================================================
+
+FILES CREATED:
+📋 Master Report: comprehensive_analysis_20250811_034633.txt
+📇 This Index: analysis_index.txt
+
+Individual Analysis Files:
+📄 Sec Tools: sec_tools_analysis_20250811_034633.txt
+📄 Sec 8K Analyzer: sec_8k_analyzer_analysis_20250811_034633.txt
+📄 Sec Insider Analyzer: sec_insider_analyzer_analysis_20250811_034633.txt
+
+Total Files: 5
+Successful Analyses: 3/3

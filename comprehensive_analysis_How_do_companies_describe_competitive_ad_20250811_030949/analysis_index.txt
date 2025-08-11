@@ -1,0 +1,15 @@
+=== SEC ANALYSIS INDEX ===
+Query: How do companies describe competitive advantages? What themes emerge?
+Timestamp: 20250811_030949
+Analysis Directory: comprehensive_analysis_How_do_companies_describe_competitive_ad_20250811_030949
+==================================================
+
+FILES CREATED:
+📋 Master Report: comprehensive_analysis_20250811_030949.txt
+📇 This Index: analysis_index.txt
+
+Individual Analysis Files:
+📄 Sec Tools: sec_tools_analysis_20250811_030949.txt
+
+Total Files: 3
+Successful Analyses: 1/3
